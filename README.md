@@ -11,6 +11,7 @@ Computer Science @ Georgia Tech | Udacity AI Programming with Python Nanodegree 
 
 ### Projects
 **AI Powered Doorbell with Object Recognition and Alerts:** - A doorbell camera threat-detection system that identifies faces, packages, animals, and aggressive moods with 90%+ accuracy
+
 **Song Recognition Python Package** - A Python package that recognizes songs from short audio clips using spectrogram fingerprinting
 
 ### Contact Me
