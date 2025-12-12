@@ -1,17 +1,21 @@
 ## Hi, I'm Kushi Kashyap
+Computer Science @ Georgia Tech | Udacity AI Programming with Python Nanodegree Graduate | US Citizen
 
-<!--
-**kushikashy/kushikashy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- Computing Languages and Technologies: Java, JUnit, Python, JSON, Swift, SwiftUI, HTML, CSS
+- Libraries/Frameworks: NumPy, Pandas, Matplotlib, PyTorch, TensorFlow
+- Tools/Practices: Git/Github, Agile Methodology, Android Studio, XCode, Firebase, Microsoft Office
 
-Here are some ideas to get you started:
+### Projects
+**AI Powered Doorbell with Object Recognition and Alerts:**
+- Designed a doorbell camera threat-detection system that identified faces, packages, animals, and aggressive moods with 90%+ accuracy
+- Collaborated in a 4-member team, implementing YOLOv5, FaceNet, VGG-16, and CNNs on 3k-36k+ image/audio samples to enable real-time detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  <p>CS @ Georgia Tech | US Citizen</p>
+**Song Recognition Python Package**                                                                                                     Jul 2024
+- Worked alongside a 4-member team to build a Python package that recognizes songs from short audio clips using spectrogram fingerprinting
+- Implemented peak detection, fingerprint matching, and metadata storage for efficient audio recognition
+
+
+### Contact Me
+- Email: kkashyap36@gatech.edu
+- LinkedIn: www.linkedin.com/in/kushi-kashyap
