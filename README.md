@@ -6,15 +6,12 @@ Computer Science @ Georgia Tech | Udacity AI Programming with Python Nanodegree 
 - Libraries/Frameworks: NumPy, Pandas, Matplotlib, PyTorch, TensorFlow
 - Tools/Practices: Git/Github, Agile Methodology, Android Studio, XCode, Firebase, Microsoft Office
 
+### Experience
+**iOS Software Developer @ Georgia Tech** - Collaborating with a team of 25 developers to build Yes Chef, a social media app to post, view, and AI generate recipes given a list of available ingredients using Swift and SwiftUI
+
 ### Projects
-**AI Powered Doorbell with Object Recognition and Alerts:**
-- Designed a doorbell camera threat-detection system that identified faces, packages, animals, and aggressive moods with 90%+ accuracy
-- Collaborated in a 4-member team, implementing YOLOv5, FaceNet, VGG-16, and CNNs on 3k-36k+ image/audio samples to enable real-time detection
-
-**Song Recognition Python Package**                                                                                                     Jul 2024
-- Worked alongside a 4-member team to build a Python package that recognizes songs from short audio clips using spectrogram fingerprinting
-- Implemented peak detection, fingerprint matching, and metadata storage for efficient audio recognition
-
+**AI Powered Doorbell with Object Recognition and Alerts:** - A doorbell camera threat-detection system that identifies faces, packages, animals, and aggressive moods with 90%+ accuracy
+**Song Recognition Python Package** - A Python package that recognizes songs from short audio clips using spectrogram fingerprinting
 
 ### Contact Me
 - Email: kkashyap36@gatech.edu
