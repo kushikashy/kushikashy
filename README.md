@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <p
-  CS @ Georgia Tech | US Citizen
-  </p>
+  <p>CS @ Georgia Tech | US Citizen</p>
