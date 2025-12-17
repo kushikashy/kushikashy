@@ -10,10 +10,10 @@ Computer Science @ Georgia Tech | Udacity AI Programming with Python Nanodegree 
 **iOS Software Developer @ Georgia Tech** - Collaborating with a team of 25 developers to build Yes Chef, a social media app to post, view, and AI generate recipes given a list of available ingredients using Swift and SwiftUI
 
 ### Projects
-**AI Powered Doorbell with Object Recognition and Alerts:** - A doorbell camera threat-detection system that identifies faces, packages, animals, and aggressive moods with 90%+ accuracy
+**AI Powered Doorbell with Object Recognition and Alerts:** - An end-to-end AI-powered smart doorbell system that performs real-time package detection, facial recognition, and audio-based aggression detection from uploaded video footage
 
-**Song Recognition Python Package** - A Python package that recognizes songs from short audio clips using spectrogram fingerprinting
+**Spendwise** - A native Android personal finance application using MVVM architecture and Firebase Firestore for real-time data sync, enabling users to track expenses, visualize budgets with dynamic charts, and collaborate through social Savings Circles to achieve shared financial goals
 
 ### Contact Me
-- Email: kkashyap36@gatech.edu
+- Email: kushikash06@gmail.com
 - LinkedIn: www.linkedin.com/in/kushi-kashyap
